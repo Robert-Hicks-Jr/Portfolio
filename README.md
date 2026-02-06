@@ -32,6 +32,7 @@ Technologies Used:
 - HTML
 - CSS
 - Web design principles
+- SqaureSpace
 
 ---
 
